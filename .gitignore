@@ -1,0 +1,25 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore certificate and private key
+cert.pem
+key.pem
+
+# Ignore environment files
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore virtual environments
+venv/
+.env/
