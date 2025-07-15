@@ -58,7 +58,7 @@ These are **visually identical** to users but resolve to different DNS entries.
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 1. **Generate Certificate** 
 2. **Start attacker server first : python attacker.py**
